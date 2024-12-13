@@ -1,6 +1,6 @@
 # Water Potability Prediction
 
-![Water Potability](https://c.tenor.com/D10_Cfu05MIAAAAC/tenor.gif)
+![Water Potability](https://www.bing.com/th/id/OGC.da19625ede7c23d69dae769a86777e8c?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fc4%2f1f%2f86%2fc41f861c584ddee778302aad80aab61c.gif&ehk=QAm9EIhd2rLwnYVqqDAg0y6Ba5Ev7gex0x%2bNR4dq94g%3d)
 
 This project focuses on predicting the potability of water using machine learning models. By analyzing water quality parameters and applying multiple classification algorithms, the project aims to classify whether water is potable or not.
 
