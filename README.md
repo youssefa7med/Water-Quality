@@ -121,7 +121,7 @@ Ensure the following Python libraries are installed:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd WaterPotability
+   cd WaterQuality
    ```
 
 3. **Install Dependencies**:
